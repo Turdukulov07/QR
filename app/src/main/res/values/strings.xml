@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A3_QRCode_HW8</string>
+    <string name="film_poster">Film Poster</string>
+    <string name="see_the_qr_code">see the QRCOde</string>
+    <string name="close">X</string>
+    <string name="done">Done</string>
+    <string name="qr_code">QR_CODE</string>
+    <string name="dialog_qr_code">DialogQRCode</string>
+    <string name="scan">Scan</string>
+    <string name="text">Film Desc</string>
+    <string name="director">Director:</string>
+    <string name="producer">Producer:</string>
+</resources>
